@@ -1,0 +1,30 @@
+# Worktree working directories
+.worktrees/
+
+# Temporary files
+temp/
+*.tmp
+*.log
+
+# IDE and editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Dependencies (if any at root level)
+node_modules/
